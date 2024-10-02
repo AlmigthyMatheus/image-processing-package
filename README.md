@@ -1,7 +1,3 @@
-Claro! Aqui está o conteúdo todo em formato Markdown:
-
-markdown
-Copiar código
 # Image Processing Package
 
 [![PyPI version](https://badge.fury.io/py/almighty-image-processing.svg)](https://pypi.org/project/almighty-image-processing/)
@@ -15,6 +11,7 @@ To install the package, run the following command:
 
 ```bash
 pip install almighty-image-processing
+```
 
 Requirements
 Python 3.5 or later
