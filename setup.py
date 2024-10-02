@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name='almighty-image-processing',  # Nome novo e único
+    name='almighty-image-processing',
     version='0.0.1',
     author="AlmigthyMatheus",
     description="image Processing Package using Skimage",
